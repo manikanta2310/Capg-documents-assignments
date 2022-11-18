@@ -1,0 +1,10 @@
+UpSkilling:
+
+
+1.CAF Assessment completed  and secured 77%
+
+2.Fundamentals of Azure-900 certification is completed
+
+3. SQL , front-end , Back-end  case study deployed on PAAS Completed
+
+4. Doing new case study student admin portal

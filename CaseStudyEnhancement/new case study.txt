@@ -1,0 +1,2 @@
+Almost I have done all the things like pdf generation , mail sending, login exceptions, password encryption.
+So I came  up with a new case study student admin portal . I have completed data base working on front end and back end.
